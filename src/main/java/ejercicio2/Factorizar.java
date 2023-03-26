@@ -30,6 +30,7 @@ public class Factorizar{
         }
         return factores;
     }
+
     //programa principal
     public static void main(String[] args){
         int n = 80;
