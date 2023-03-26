@@ -34,8 +34,6 @@ public class Factorizar{
     }
 
 
-
-
     void f(int num, int div)
     {
         if (num>1) {
@@ -50,14 +48,12 @@ public class Factorizar{
     //programa principal
     public static void main(String[] args){
 ;
-        int n = 100;
+        int n = 39;
         int i = 2;
         //llama al algoritmo iterativo
         f_iterative(n, i);
         //llama al algoritmo lambda
         f_lambda(n, i);
-
-
 
     }
 
