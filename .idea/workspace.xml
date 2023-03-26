@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de07b1e5-f852-445a-a73a-ab22d5595e99" name="Changes" comment="Ejercicio3">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ejercicio3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ejercicio3/Main.java" afterDir="false" />
+    <list default="true" id="de07b1e5-f852-445a-a73a-ab22d5595e99" name="Changes" comment="Ejercicio4">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio5/EUCLIDES.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +53,20 @@
       <recent name="C:\Users\rafap\OneDrive\Escritorio\Proyectos\AAEJercicios TEMAS\Unamenos\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ejercicio4.Main">
+  <component name="RunManager" selected="Application.EUCLIDES">
+    <configuration name="EUCLIDES" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicio5.EUCLIDES" />
+      <module name="Unamenos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicio5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Factorizar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ejercicio2.Factorizar" />
       <module name="Unamenos" />
@@ -108,9 +121,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EUCLIDES" />
+        <item itemvalue="Application.Factorizar" />
         <item itemvalue="Application.ejercicio4.Main" />
         <item itemvalue="Application.ejercicio3.Main" />
-        <item itemvalue="Application.Factorizar" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -123,7 +137,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679823497722</updated>
-      <workItem from="1679823498919" duration="4523000" />
+      <workItem from="1679823498919" duration="5927000" />
     </task>
     <task id="LOCAL-00001" summary="Ejercicio1b)">
       <created>1679825937150</created>
@@ -153,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679854681519</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Ejercicio4">
+      <created>1679855089487</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679855089487</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +195,7 @@
     <MESSAGE value="Ejercicio1b)" />
     <MESSAGE value="Ejercicio2b)" />
     <MESSAGE value="Ejercicio3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio3" />
+    <MESSAGE value="Ejercicio4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio4" />
   </component>
 </project>
