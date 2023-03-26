@@ -3,8 +3,6 @@ package ejercicio3;
 import java.util.Scanner;
 
 public class Main {
-    //Construya una función que convierta un número decimal en una cadena que represente el
-    //valor del número en hexadecimal (base 16) en java
     public static String decimalToHexadecimal(int decimal){
         String hexadecimal = "";
         int resto;
